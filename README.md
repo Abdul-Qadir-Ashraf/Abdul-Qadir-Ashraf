@@ -47,6 +47,7 @@ flowchart LR
 
 | Project | Focus Area | What It Shows |
 | --- | --- | --- |
+| [Transformer Attention From Scratch](https://github.com/Abdul-Qadir-Ashraf/Transformer-Attention-From-Scratch) | Research Paper Implementation | NumPy implementation of scaled dot-product attention, multi-head attention, positional encoding, encoder block, reports, and tests |
 | [Retail Sales EDA Dashboard](https://github.com/Abdul-Qadir-Ashraf/Retail-Sales-EDA-Dashboard) | Data Analysis, Dashboarding | KPI tracking, filters, category analysis, regional insights, Pareto view, and business recommendations |
 | [Student Performance Prediction ML App](https://github.com/Abdul-Qadir-Ashraf/Student-Performance-Prediction) | ML Regression, Experiment Design | Cross-validation, model comparison, residual analysis, feature importance, and Streamlit prediction dashboard |
 | [Fake News Detection Using NLP](https://github.com/Abdul-Qadir-Ashraf/Fake-News-Detection-NLP) | NLP, Model Evaluation | TF-IDF pipeline, model comparison, confusion matrix, error analysis, feature explanations, and Streamlit app |
@@ -115,6 +116,7 @@ flowchart LR
 I am actively improving this profile with projects that demonstrate job-ready AI/ML skills:
 
 - 📊 **Exploratory Data Analysis Upgrade** — extend Retail Sales EDA with forecasting, anomaly detection, and cohort analysis
+- 📄 **Research Paper Implementation** — extend Transformer Attention with decoder blocks, heatmaps, and a tiny language-modeling experiment
 - 🤖 **End-to-End ML Research Upgrade** — expand Student Performance Prediction with larger data, SHAP explainability, and fairness checks
 - 🗣️ **NLP Research Upgrade** — extend Fake News Detection with larger datasets, transformer baselines, and source-credibility signals
 - 👁️ **Computer Vision Upgrade** — add screenshots, evaluation examples, and optional Streamlit/Django UI to Face Recognition 2.0
