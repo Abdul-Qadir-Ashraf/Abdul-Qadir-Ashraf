@@ -47,7 +47,7 @@ flowchart LR
 
 | Project | Focus Area | What It Shows |
 | --- | --- | --- |
-| [Face Recognition Model](https://github.com/Abdul-Qadir-Ashraf/Face-recognition-model) | Computer Vision, Python | Face-based user authorization workflow |
+| [Face Recognition Attendance System 2.0](https://github.com/Abdul-Qadir-Ashraf/Face-recognition-model) | Computer Vision, Python | Portfolio-grade face comparison and webcam attendance workflow |
 | [Virtual Assistant](https://github.com/Abdul-Qadir-Ashraf/Virtual-assistant) | Python Automation | Assistant-style interaction and basic task execution |
 | [Web Scrapper](https://github.com/Abdul-Qadir-Ashraf/Web-scrapper) | Data Collection | Web data extraction foundation for analytics projects |
 | [Restaurant Invoice Creator and Calculator](https://github.com/Abdul-Qadir-Ashraf/Restaurant-invoice-creater-and-calculator) | Python Applications | Billing logic, calculation flow, and user-facing utility |
@@ -114,7 +114,7 @@ I am actively improving this profile with projects that demonstrate job-ready AI
 - 📊 **Exploratory Data Analysis Portfolio** — clean datasets, visual insights, and business conclusions
 - 🤖 **End-to-End ML Project** — preprocessing, training, evaluation, and model explanation
 - 🗣️ **NLP Mini Project** — sentiment analysis or text classification with deployment-ready documentation
-- 👁️ **Computer Vision Upgrade** — improve face recognition with better evaluation and README visuals
+- 👁️ **Computer Vision Upgrade** — add screenshots, evaluation examples, and optional Streamlit/Django UI to Face Recognition 2.0
 - 🌐 **Django + ML App** — web interface connected to a trained model
 
 ---
