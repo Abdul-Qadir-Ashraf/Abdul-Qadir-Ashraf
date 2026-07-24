@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm Qadir</h1>
-<h3 align="center">MCA Student at IIT Patna | AI & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abdul Qadir Ashraf</h1>
+<h3 align="center">MCA Student at IIT Patna | AI & Machine Learning | Data Analyst / Technical Head</h3>
 
 <p align="center">
-  <em>Building intelligent systems, learning deeply, and turning ideas into useful AI-powered projects.</em>
+  <em>Python-focused developer exploring AI, machine learning, data science, and practical software systems.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **MCA from IIT Patna**
-- 🤖 Focused on **Artificial Intelligence, Machine Learning, and Data Science**
-- 💡 Interested in building projects around **ML models, NLP, Computer Vision, and AI applications**
-- 🧠 Currently strengthening my foundations in **Python, DSA, mathematics for ML, and real-world model deployment**
-- 🌱 Always exploring better ways to combine **software engineering + machine learning**
-- 🎯 Goal: become a strong **AI/ML Engineer** who builds practical, scalable, and impactful solutions
+- 🎓 Pursuing **Master of Computer Applications (MCA) in AI and Machine Learning** at **Indian Institute of Technology, Patna**
+- 💼 Working as **Technical Head at Destiny IT Services**
+- 📍 Based in **Patna, Bihar, India**
+- 🐍 Passionate about **Python Development**, with interests across **Data Science, Django, and AI/ML applications**
+- 📊 Skilled in **Data Analysis, Microsoft Excel, Microsoft Office, Project Management, and Communication**
+- 🎯 Goal: grow into a strong **AI/ML Engineer** who builds practical, scalable, and impactful solutions
+
+---
+
+## 💼 Professional Experience
+
+### Technical Head — Destiny IT Services
+**Apr 2022 – Present | Patna, Bihar, India**
+
+- Working in a technical leadership role across data, productivity tools, and project execution
+- Applying skills in **Data Analysis**, **Microsoft Excel**, **Microsoft Office**, and **Project Management**
+
+### Tutor — Self
+**Jan 2019 – May 2023**
+
+- Helped learners build academic and technical foundations through structured guidance
+
+---
+
+## 🎓 Education
+
+- **Indian Institute of Technology, Patna**  
+  Master of Computer Applications - **AI and Machine Learning**  
+  **Nov 2025 – Jan 2027**
+
+- **Indira Gandhi National Open University**  
+  Bachelor of Computer Applications - **Computer Science**  
+  **Feb 2022 – Feb 2025**
 
 ---
 
@@ -26,30 +53,31 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI / ML
+### AI / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Tools & Platforms
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📌 Featured Project Ideas
+## 📌 Project Focus
 
-Here are the kinds of projects I am working on and planning to build:
-
-- 🧠 **Machine Learning Projects** — classification, regression, clustering, and model evaluation
-- 🗣️ **NLP Applications** — text classification, summarization, sentiment analysis, and chatbots
-- 👁️ **Computer Vision Projects** — image classification, detection, and real-time vision apps
-- 📊 **Data Science Dashboards** — data cleaning, visualization, and insight generation
-- 🚀 **AI-Powered Web Apps** — deploying ML models with simple, useful interfaces
+- 🧠 **Machine Learning** — classification, regression, clustering, and model evaluation
+- 📊 **Data Analysis** — cleaning, analysis, reporting, and insight generation
+- 🌐 **Django Applications** — Python-backed web applications and dashboards
+- 🗣️ **NLP Applications** — text classification, sentiment analysis, summarization, and chatbots
+- 👁️ **Computer Vision** — image classification, detection, and real-time AI apps
+- 🚀 **Model Deployment** — turning notebooks and models into usable applications
 
 ---
 
@@ -82,11 +110,8 @@ flowchart LR
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-qadir-ashraf-281210195/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
