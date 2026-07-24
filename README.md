@@ -47,7 +47,7 @@ flowchart LR
 
 | Project | Focus Area | What It Shows |
 | --- | --- | --- |
-| [Student Performance Prediction ML App](https://github.com/Abdul-Qadir-Ashraf/Student-Performance-Prediction) | Machine Learning, Streamlit | End-to-end ML workflow with preprocessing, model training, evaluation, and prediction app |
+| [Student Performance Prediction ML App](https://github.com/Abdul-Qadir-Ashraf/Student-Performance-Prediction) | ML Regression, Experiment Design | Cross-validation, model comparison, residual analysis, feature importance, and Streamlit prediction dashboard |
 | [Fake News Detection Using NLP](https://github.com/Abdul-Qadir-Ashraf/Fake-News-Detection-NLP) | NLP, Model Evaluation | TF-IDF pipeline, model comparison, confusion matrix, error analysis, feature explanations, and Streamlit app |
 | [Face Recognition Attendance System 2.0](https://github.com/Abdul-Qadir-Ashraf/Face-recognition-model) | Computer Vision, Python | Portfolio-grade face comparison and webcam attendance workflow |
 | [Virtual Assistant](https://github.com/Abdul-Qadir-Ashraf/Virtual-assistant) | Python Automation | Assistant-style interaction and basic task execution |
@@ -114,7 +114,7 @@ flowchart LR
 I am actively improving this profile with projects that demonstrate job-ready AI/ML skills:
 
 - 📊 **Exploratory Data Analysis Portfolio** — clean datasets, visual insights, and business conclusions
-- 🤖 **End-to-End ML Project** — improve Student Performance Prediction with larger data and richer model comparison
+- 🤖 **End-to-End ML Research Upgrade** — expand Student Performance Prediction with larger data, SHAP explainability, and fairness checks
 - 🗣️ **NLP Research Upgrade** — extend Fake News Detection with larger datasets, transformer baselines, and source-credibility signals
 - 👁️ **Computer Vision Upgrade** — add screenshots, evaluation examples, and optional Streamlit/Django UI to Face Recognition 2.0
 - 🌐 **Django + ML App** — web interface connected to a trained model
