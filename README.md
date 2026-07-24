@@ -47,6 +47,7 @@ flowchart LR
 
 | Project | Focus Area | What It Shows |
 | --- | --- | --- |
+| [Retail Sales EDA Dashboard](https://github.com/Abdul-Qadir-Ashraf/Retail-Sales-EDA-Dashboard) | Data Analysis, Dashboarding | KPI tracking, filters, category analysis, regional insights, Pareto view, and business recommendations |
 | [Student Performance Prediction ML App](https://github.com/Abdul-Qadir-Ashraf/Student-Performance-Prediction) | ML Regression, Experiment Design | Cross-validation, model comparison, residual analysis, feature importance, and Streamlit prediction dashboard |
 | [Fake News Detection Using NLP](https://github.com/Abdul-Qadir-Ashraf/Fake-News-Detection-NLP) | NLP, Model Evaluation | TF-IDF pipeline, model comparison, confusion matrix, error analysis, feature explanations, and Streamlit app |
 | [Face Recognition Attendance System 2.0](https://github.com/Abdul-Qadir-Ashraf/Face-recognition-model) | Computer Vision, Python | Portfolio-grade face comparison and webcam attendance workflow |
@@ -113,7 +114,7 @@ flowchart LR
 
 I am actively improving this profile with projects that demonstrate job-ready AI/ML skills:
 
-- 📊 **Exploratory Data Analysis Portfolio** — clean datasets, visual insights, and business conclusions
+- 📊 **Exploratory Data Analysis Upgrade** — extend Retail Sales EDA with forecasting, anomaly detection, and cohort analysis
 - 🤖 **End-to-End ML Research Upgrade** — expand Student Performance Prediction with larger data, SHAP explainability, and fairness checks
 - 🗣️ **NLP Research Upgrade** — extend Fake News Detection with larger datasets, transformer baselines, and source-credibility signals
 - 👁️ **Computer Vision Upgrade** — add screenshots, evaluation examples, and optional Streamlit/Django UI to Face Recognition 2.0
