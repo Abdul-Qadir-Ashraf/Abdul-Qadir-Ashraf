@@ -51,7 +51,6 @@ flowchart LR
 | [Virtual Assistant](https://github.com/Abdul-Qadir-Ashraf/Virtual-assistant) | Python Automation | Assistant-style interaction and basic task execution |
 | [Web Scrapper](https://github.com/Abdul-Qadir-Ashraf/Web-scrapper) | Data Collection | Web data extraction foundation for analytics projects |
 | [Restaurant Invoice Creator and Calculator](https://github.com/Abdul-Qadir-Ashraf/Restaurant-invoice-creater-and-calculator) | Python Applications | Billing logic, calculation flow, and user-facing utility |
-| [Android to PC Copy](https://github.com/Abdul-Qadir-Ashraf/ANDROID-TO-PC-COPY) | Automation | File transfer and filtering workflow from Android storage to PC |
 
 ---
 
