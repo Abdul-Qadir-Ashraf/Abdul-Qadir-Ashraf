@@ -47,7 +47,6 @@ flowchart LR
 
 | Project | Focus Area | What It Shows |
 | --- | --- | --- |
-| [Shanevar Storefront](https://github.com/Abdul-Qadir-Ashraf/shanevar3) | React, Vite, Ecommerce | Modern product catalog website with cart-style shopping flow and direct-order structure |
 | [Face Recognition Model](https://github.com/Abdul-Qadir-Ashraf/Face-recognition-model) | Computer Vision, Python | Face-based user authorization workflow |
 | [Virtual Assistant](https://github.com/Abdul-Qadir-Ashraf/Virtual-assistant) | Python Automation | Assistant-style interaction and basic task execution |
 | [Web Scrapper](https://github.com/Abdul-Qadir-Ashraf/Web-scrapper) | Data Collection | Web data extraction foundation for analytics projects |
@@ -67,8 +66,6 @@ flowchart LR
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Software & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,7 +117,6 @@ I am actively improving this profile with projects that demonstrate job-ready AI
 - 🗣️ **NLP Mini Project** — sentiment analysis or text classification with deployment-ready documentation
 - 👁️ **Computer Vision Upgrade** — improve face recognition with better evaluation and README visuals
 - 🌐 **Django + ML App** — web interface connected to a trained model
-- 🛍️ **Shanevar Storefront Deployment** — publish the React/Vite ecommerce website and add a live demo link
 
 ---
 
