@@ -43,6 +43,16 @@ flowchart LR
 
 ---
 
+## ✅ Portfolio Quality
+
+- Reproducible project structure with `src/`, `data/`, `reports/`, and clear setup instructions
+- Tested ML/NLP/CV utilities with `pytest`
+- Experiment artifacts such as metrics, residual reports, confusion matrices, and feature importance
+- Streamlit dashboards for interactive model and EDA workflows
+- Research-focused implementation of Transformer attention from scratch
+
+---
+
 ## 📌 Portfolio Highlights
 
 | Project | Focus Area | What It Shows |
